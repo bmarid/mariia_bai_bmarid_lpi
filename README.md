@@ -1,3 +1,7 @@
 # bmarid
-Results of 13/09 lesson (git, terminal)
-PART1: APTENYDYTES TATAGOBIGCO
+Folders:
+git
+*hello-git-13sept #results of 13sept
+
+python
+*15sept
