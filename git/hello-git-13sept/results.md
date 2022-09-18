@@ -1,4 +1,5 @@
-Results of 13/09 lesson (git, terminal) PART1: APTENYDYTES TATAGOBIGCO
+Results of 13/09 lesson (git, terminal) 
+PART1: APTENYDYTES TATAGOBIGCO
 PART2:
 # CRI Bootcamp Expert: Git Hands on
 
