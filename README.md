@@ -11,4 +11,5 @@ bmarid_business.ipynb
 
 python
 
+*musicians.ipynb
 *15sept
