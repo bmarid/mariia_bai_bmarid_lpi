@@ -11,6 +11,8 @@ bmarid_business.ipynb
 
 ##python
 
-*musicians.ipynb
+*musiciansOneFile.ipynb
+
+*musicians1000.ipynb
 
 *15sept
