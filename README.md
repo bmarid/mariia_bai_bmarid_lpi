@@ -1,5 +1,5 @@
 # bmarid
-Conttent:
+Content:
 
 ##git
 
