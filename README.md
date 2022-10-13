@@ -1,7 +1,11 @@
 # bmarid
 Content:
+
+## titanic
+* titanic [https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/blob/main/titanic/titanicMariHala.ipynb]
+
 ## 29septDatavis
-* [hw_data_visualisation|https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/blob/main/29septDatavis/hw_data_visualisation.ipynb]
+* hw_data_visualisation [https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/blob/main/29septDatavis/hw_data_visualisation.ipynb]
 
 ## consult_star_wars_clean
 
