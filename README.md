@@ -1,8 +1,8 @@
 # bmarid
 Content:
 
-## titanic
-* titanic [https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/blob/main/titanic/titanicMariHala.ipynb]
+## ai titanic
+* ai titanic projects [https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/tree/main/titanic]
 
 ## 29septDatavis
 * hw_data_visualisation [https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/blob/main/29septDatavis/hw_data_visualisation.ipynb]
