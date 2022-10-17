@@ -8,10 +8,7 @@ Content:
 * hw_data_visualisation [https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/blob/main/29septDatavis/hw_data_visualisation.ipynb]
 
 ## consult_star_wars_clean
-
-* 1_consultations.ipynb [https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/blob/main/consult_star_wars_clean/1_consultations.ipynb]
-* StarWarsHalaMari.ipynb [https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/blob/main/consult_star_wars_clean/StarWarsHalaMari.ipynb]
-* 3_clean_data_api_elasticbeanstalk.ipynb [https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/blob/main/consult_star_wars_clean/3_clean_data_api_elasticbeanstalk..ipynb]
+* consult_star_wars_clean [https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/blob/main/consult_star_wars_clean/]
 
 ## python basics and oriented objects
 
