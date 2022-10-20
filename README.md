@@ -1,6 +1,9 @@
 # bmarid
 Content:
 
+## SQL
+* https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/tree/main/sql
+
 ## ai titanic
 * ai titanic projects [https://github.com/AdvancedGroupBootcamp/mariia_bai_bmarid/tree/main/titanic]
 
