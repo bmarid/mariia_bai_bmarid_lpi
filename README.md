@@ -1,3 +1,5 @@
+Series of Jupiter notebook for my masters degree
+
 # bmarid
 Content:
 
